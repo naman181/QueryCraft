@@ -1,0 +1,26 @@
+
+
+Answer:
+question: What is the difference between PDA acceptance mechanisms?
+option a: PDA acceptance using final state and empty stack are different.
+option b: PDA acceptance using final state and empty stack are equivalent.
+option c: PDA acceptance using both final state and empty stack are different.
+option d: All PDA acceptance mechanisms are equivalent.
+correct Answer: option b: PDA acceptance using final state and empty stack are equivalent.
+Explanation:
+In PDA, the acceptance mechanism is the way in which a string is accepted by the machine. There are three types of PDA acceptance mechanisms: PDA acceptance using final state, PDA acceptance using empty stack, and PDA acceptance using both final state and empty stack. These mechanisms are equivalent, meaning that they can recognize the same set of strings. Therefore, option b is the correct answer.
+
+
+Explanation:
+The passage provides an overview of the theory of computation, including the concepts of DPDA and PDA. The questions are designed to test the understanding of these concepts and their relationship with regular languages, context-free languages, and deterministic context-free languages (DCFL).
+
+Question 1: What is the difference between DPDA and PDA?
+
+Option a: DPDA has more than one final state.
+Option b: DPDA has only one final state.
+Option c: DPDA can accept both final and non-final strings.
+Option d: DPDA cannot accept non-final strings.
+Correct answer: Option b: DPDA has only one final state.
+
+Explanation: A DPDA (Deterministic Pushdown Automaton) is a type of automaton that can recognize deterministic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic context-istic
+
