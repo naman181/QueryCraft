@@ -14,7 +14,7 @@ The actions that were taken to prepare the dataset were as follows:
 •	Subject matter experts validate questions to ensure correctness and applicability.
 The prepared dataset screenshot is shown below:
 
-![image](https://github.com/user-attachments/assets/98df5321-e99a-4fc9-aa70-2285c826625c)
+![image](https://github.com/user-attachments/assets/214030be-38d9-4d1f-ab40-6a4405d68103)
 Figure showing the prepared dataset including the following attributes
 •	Questions
 •	OptionA
@@ -26,26 +26,26 @@ Figure showing the prepared dataset including the following attributes
 
 
 # Project Architecture
-![image](https://github.com/user-attachments/assets/37679dae-fcc0-4a49-b49f-f1d025af98bc)
+![image](https://github.com/user-attachments/assets/3d719b29-917f-49ea-908c-bdc6b7c66384)
 
 This Figure showing the process from input till we get the output. As shown in the figure firstly we prepare the actual dataset called as input data from the raw data after normalizing it. Then we try to split the data into training and testing part then after preprocessing, the preprocessed data then goes to the encoder and then goes to the decoder and as the model gets trained more the more accurately it generated the corresponding output.
 
 
 
 # Results
-![image](https://github.com/user-attachments/assets/75540b11-bb2d-4861-bca9-d421a5b5778c)
+![image](https://github.com/user-attachments/assets/af8da901-3b10-41bd-854d-cd338da717f2)
 
 This figure shows the basic fronted landing page where user input the textual data and filling the proper information required and click on generate button.
 
 
 
-![image](https://github.com/user-attachments/assets/a21c1a96-c025-4a06-864e-f62700c58f9a)
+![image](https://github.com/user-attachments/assets/90b93301-bc4e-4e37-a635-b410bfc017e6)
 
 This is the example showing how the user has entered the passage and selected the features like the number of questions he/she wants, the type of question.
 
 
 
-![image](https://github.com/user-attachments/assets/f8864b1f-d0ea-4390-9067-ace3150913fb)
+![image](https://github.com/user-attachments/assets/7cbd1f6b-ab82-491a-8bf9-4c45df174b7e)
 
 The figure shows the final generated.txt file which has 3 questions as user entered before including the ques, Ans, options, explanations.
 
